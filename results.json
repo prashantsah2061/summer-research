@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "lstm_32": {
     "accuracy": [
@@ -1520,3 +1521,6 @@
     ]
   }
 }
+=======
+{}
+>>>>>>> adcd6c2 (setup mamba with lstm and transformer)
